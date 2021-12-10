@@ -18,14 +18,17 @@ node -v
 npm -v
 
 **Install GIT**
+
 (sudo) apt update  // to get updates
 (sudo) apt install git
 
 **Compiling TypeScript program**
+
 tsc main.ts && node main.js
 tsc --target ES6 main.ts && node main.js
 
 **GIT commands**
+
 git clone https://github.com/MalithaDilshan/TypeScriptTraining.git
 (git init) 
 git status
@@ -37,6 +40,7 @@ git commit -m 'First type script training with a call'
 
 ![image](https://user-images.githubusercontent.com/19968541/145585376-634cc603-4f89-408b-a302-22815891f117.png)
 
+**Source:** 
 https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
 
 git push
