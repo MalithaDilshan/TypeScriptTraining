@@ -5,6 +5,7 @@
 Download Ubuntu Desktop for Windows and turning on the linux features
 
 WIN + R and type 'optionalfeatures.exe'
+
 ![image](https://user-images.githubusercontent.com/19968541/145580026-1e8419e1-a95a-456f-81e3-22842113fc15.png)
 
 Re-start the machine 
