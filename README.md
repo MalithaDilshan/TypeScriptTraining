@@ -17,6 +17,9 @@ sudo apt-get install nodejs
 node -v 
 npm -v
 
+**Install Type script**
+npm install -g typescript
+
 **Install GIT**
 
 (sudo) apt update  // to get updates
