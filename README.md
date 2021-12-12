@@ -29,7 +29,10 @@ npm install -g typescript
 **Compiling TypeScript program**
 
 tsc main.ts && node main.js
+
 tsc --target ES6 main.ts && node main.js
+
+tsc main.ts -w   // compile when we save the .ts file automatically
 
 **GIT commands**
 
