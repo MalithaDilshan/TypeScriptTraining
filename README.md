@@ -18,6 +18,7 @@ node -v
 npm -v
 
 **Install Type script**
+
 npm install -g typescript
 
 **Install GIT**
