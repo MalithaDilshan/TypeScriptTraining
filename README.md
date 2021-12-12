@@ -56,6 +56,6 @@ https://stackoverflow.com/questions/68775869/support-for-password-authentication
 
 git push
 
-
+git pull
 
 
