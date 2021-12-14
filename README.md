@@ -17,6 +17,10 @@ sudo apt-get install nodejs
 node -v 
 npm -v
 
+**Install Type script**
+
+npm install -g typescript
+
 **Install GIT**
 
 (sudo) apt update  // to get updates
@@ -25,17 +29,27 @@ npm -v
 **Compiling TypeScript program**
 
 tsc main.ts && node main.js
+
 tsc --target ES6 main.ts && node main.js
+
+tsc main.ts -w   // compile when we save the .ts file automatically
 
 **GIT commands**
 
 git clone https://github.com/MalithaDilshan/TypeScriptTraining.git
+
 (git init) 
+
 git status
+
 git add .
+
 git commit -m 'First type script training with a call'
+
 (git remote add origin https://github.com/MalithaDilshan/TypeScriptTraining.git)
+
 (git remote show origin)
+
 (git push -u origin master   // This is for password authentication. Currently git is using the token authentication mechanism)
 
 ![image](https://user-images.githubusercontent.com/19968541/145585376-634cc603-4f89-408b-a302-22815891f117.png)
@@ -45,6 +59,6 @@ https://stackoverflow.com/questions/68775869/support-for-password-authentication
 
 git push
 
-
+git pull
 
 
